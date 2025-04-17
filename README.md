@@ -2,6 +2,7 @@
 Data Analysis Project 
 <br>
 Author - Akanksha 
+<br> 
 #Import libraries 
 import pandas as pd
 data = pd.read_excel("coffee_sales.xlsx")
